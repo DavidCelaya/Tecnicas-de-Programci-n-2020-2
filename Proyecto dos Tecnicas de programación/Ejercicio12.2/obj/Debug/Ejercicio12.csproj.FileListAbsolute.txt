@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\bin\Debug\Ejercicio12.exe.config
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\bin\Debug\Ejercicio12.exe
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\bin\Debug\Ejercicio12.pdb
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\obj\Debug\Ejercicio12.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\obj\Debug\Ejercicio12.Juego.resources
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\obj\Debug\Ejercicio12.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\obj\Debug\Ejercicio12.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\obj\Debug\Ejercicio12.exe
+C:\Users\david\OneDrive\Escritorio\Ejercicio12.2\obj\Debug\Ejercicio12.pdb
